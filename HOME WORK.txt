@@ -1,0 +1,51 @@
+1.class Java
+{
+	public static void main (String[]args)
+	{
+		System.out.println("Welcome To JAVA Programming");
+		
+	}
+}
+
+2.class Food
+{  
+    public static void main(String[]args)
+    {
+
+          System.out.println("i love biriyani");
+    }
+
+}
+
+3.class Dream
+{
+    public static void main(String[]args)
+     {
+       System.out.println("java sundaresan");
+     }
+
+}
+
+4.class Music
+{
+    public static void main(String[]args)
+     {
+       System.out.println("life is better with music!");
+     }
+}
+
+5. class Canteen
+{
+    public static void main(String[]args)
+     {
+       System.out.println("samosa and chai ready");
+     }
+}
+
+6.class Exam hall
+{
+    public static void main(String[]args)
+     {
+       System.out.println("No Talking.Only Writing");
+     }
+}
